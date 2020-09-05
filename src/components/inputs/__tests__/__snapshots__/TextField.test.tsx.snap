@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<TextField__Wrapper>
+  <TextField__TextInputContainer
+    focused={false}
+    hasError={false}
+  >
+    <TextField__Label
+      focused={false}
+      hasError={false}
+    />
+    <TextField__TextInput
+      onBlur={[Function]}
+      onChangeText={[MockFunction]}
+      onFocus={[Function]}
+      theme={
+        Object {
+          "colors": Object {
+            "activeHeader": "rgba(51, 153, 102, 0.1)",
+            "background": "rgb(242, 242, 242)",
+            "border": "rgb(216, 216, 216)",
+            "buttonTextColor": "#fff",
+            "card": "rgb(255, 255, 255)",
+            "error": "rgb(224, 36, 94)",
+            "inputBackground": "rgba(0, 0, 0, 0.05)",
+            "inputBorder": "rgba(0, 0, 0, 0.08)",
+            "inputText": "#333",
+            "label": "rgba(0, 0, 0, 0.5)",
+            "navigationBar": "#000000",
+            "notification": "rgb(255, 59, 48)",
+            "notificationTextColor": "#fff",
+            "placeholder": "rgba(0, 0, 0, 0.3)",
+            "primary": "#ff3434",
+            "statusBar": "#f2f2f2",
+            "text": "#555",
+          },
+          "dark": false,
+          "device": "desktop",
+          "font": Object {
+            "main": "Roboto-Regular",
+          },
+          "fontSize": Object {
+            "buttonText": "15px",
+            "inputText": "19px",
+            "label": "15px",
+            "searchInput": "16px",
+            "text": "16px",
+          },
+          "opacity": Object {
+            "buttonClick": 0.6,
+          },
+        }
+      }
+      value="test"
+    />
+  </TextField__TextInputContainer>
+</TextField__Wrapper>
+`;

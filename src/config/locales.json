@@ -1,0 +1,39 @@
+{
+  "en": {
+    "screens": {
+      "calculator": {
+        "title": "Design your pizza",
+        "numberOfBalls": "Dough balls number",
+        "piece": "pieces",
+        "doughWeight": "Dough weight",
+        "wantedHydration": "Hydration",
+        "wantedFats": "Oil",
+        "wantedSalt": "Salt",
+        "temperature": "Room temperature",
+        "risingTime": "Rising time",
+        "fridgeRisingTime": "Fridge rising time"
+      },
+      "showRecipe": {
+        "title": "Here is your recipe!",
+        "flour": "Flour:",
+        "water": "Water:",
+        "salt": "Salt:",
+        "oil": "Oil:",
+        "yeast": {
+          "title": "Yeast:",
+          "fresh": "g(fresh)",
+          "dry": "g(dry)"
+        },
+        "risingTime": {
+          "title": "Rising Time:",
+          "unit": "h"
+        },
+        "temperature": "Rising Temperature:",
+        "fridgeRisingTime": {
+          "title": "Fridge rising time",
+          "unit": "h"
+        }
+      }
+    }
+  }
+}
